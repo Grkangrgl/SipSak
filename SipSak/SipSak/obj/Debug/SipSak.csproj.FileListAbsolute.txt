@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\SipSak\SipSak\bin\Debug\SipSak.exe.config
+C:\Users\LENOVO\source\repos\SipSak\SipSak\bin\Debug\SipSak.exe
+C:\Users\LENOVO\source\repos\SipSak\SipSak\bin\Debug\SipSak.pdb
+C:\Users\LENOVO\source\repos\SipSak\SipSak\obj\Debug\SipSak.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SipSak\SipSak\obj\Debug\SipSak.Form1.resources
+C:\Users\LENOVO\source\repos\SipSak\SipSak\obj\Debug\SipSak.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\SipSak\SipSak\obj\Debug\SipSak.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\SipSak\SipSak\obj\Debug\SipSak.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SipSak\SipSak\obj\Debug\SipSak.exe
+C:\Users\LENOVO\source\repos\SipSak\SipSak\obj\Debug\SipSak.pdb
